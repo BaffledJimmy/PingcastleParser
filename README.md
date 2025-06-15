@@ -12,3 +12,6 @@ You can find a walkthrough for this small project here: https://www.tommacdonald
 * Place files in C:\Scripts
 * Create any Webhook URls required (Slack / Teams)
 * Create Scheduled Task to run PingCastle, and one to upload your HTML reports to OpenAI or your LLM of choice.
+* Create OpenAI Assistant within OpenAI Platform
+* Generate Threaed ID
+* Go!
