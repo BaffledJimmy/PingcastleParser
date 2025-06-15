@@ -3,7 +3,7 @@ Simple methodology to monitor Active Directory risk scores and receive notificat
 
 ## Accompanying Blog Post
 
-You can find a walkthrough for this small project here:
+You can find a walkthrough for this small project here: https://www.tommacdonald.co.uk/continuous-active-directory-monitoring-via-pingcastle/
 
 ## Getting Up and Running
 
